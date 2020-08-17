@@ -23,6 +23,7 @@
       "callToActionMode": "button",
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
+      "blockClass": "info-card-button-right",
       "textAlignment": "center"
     }   
   },
@@ -37,6 +38,7 @@
       "callToActionMode": "button",
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
+      "blockClass": "info-card-button-left",
       "textAlignment": "center"
     }  
   }

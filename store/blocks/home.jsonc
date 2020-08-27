@@ -9,7 +9,14 @@
   "flex-layout.row":{
     "children": [
       "info-card#rethink",
-      "rich-text#deletar"
+      "flex-layout.col"
+    ]
+  },
+
+  "flex-layout.col":{
+    "children": [
+      "image#electronics",
+      "image#major-appliance"
     ]
   },
   
@@ -23,11 +30,7 @@
     }
   },
   
-  "flex-layout.row#deletar": {
-    "props": {
-      "text": "I'll be deleted soon"
-    }
-  },
+
 
   "image#electronics": {
     "props": {

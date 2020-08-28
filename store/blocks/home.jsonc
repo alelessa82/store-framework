@@ -4,16 +4,18 @@
       "rich-text",
       "info-card#button-right",
       "info-card#button-left",
+      "shelf",
       "slider-layout#home"
       
     ]
   },
-
+  
   "slider-layout#home":{
     "props":{
 
     }
   },
+
 "rich-text":{
   "props":{
     "text":"hello, world!",
@@ -50,3 +52,4 @@
   }
 }
 }
+

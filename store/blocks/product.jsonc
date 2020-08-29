@@ -30,6 +30,12 @@
         "buy-button"
       ]
  
+    },
+    "product-price":{
+      "props":{
+        "showSvaings":true,
+        "showListPrice":false
+      }
     }
 
 }

@@ -20,8 +20,8 @@
     },
     "flex-layout.col#right":{
       "props":{
-        "verticalAlign":"center",
-        "preventVerticalStretch":"center"
+        "verticalAlign":"middle",
+        "preventVerticalStretch":"true"
   
       },
       "children":[
